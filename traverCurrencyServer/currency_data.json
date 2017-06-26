@@ -1,1 +1,163 @@
-[{"countryFlag":"Japan.png","currencyName":"日元","currencyCode":"JPY","currencyCodeName":"Japanese Yen","currencyChaoOut":"6.1652"},{"countryFlag":"Singapore.png","currencyName":"新加坡元","currencyCode":"SGD","currencyCodeName":"Singapore Dollar","currencyChaoOut":"493.9800"},{"countryFlag":"HongKong.png","currencyName":"港币","currencyCode":"HKD","currencyCodeName":"Hong Kong Dollar","currencyChaoOut":"87.7800"},{"countryFlag":"Macao.png","currencyName":"澳门元","currencyCode":"MOP","currencyCodeName":"Pataca de Macau","currencyChaoOut":"85.2200"},{"countryFlag":"Canada.png","currencyName":"加拿大元","currencyCode":"CAD","currencyCodeName":"Canada Dollar","currencyChaoOut":"514.7400"},{"countryFlag":"South-Africa.png","currencyName":"南非兰特","currencyCode":"ZAR","currencyCodeName":"Rand","currencyChaoOut":"52.4600"},{"countryFlag":"New-Zealand.png","currencyName":"新西兰元","currencyCode":"NZD","currencyCodeName":"New Zealand Dollar","currencyChaoOut":"497.0100"},{"countryFlag":"Australia.png","currencyName":"澳大利亚元","currencyCode":"AUD","currencyCodeName":"Australia Dollar","currencyChaoOut":"518.3400"},{"countryFlag":"United-Kingdom.png","currencyName":"英镑","currencyCode":"GBP","currencyCodeName":"Pound","currencyChaoOut":"869.0000"},{"countryFlag":"Denmark.png","currencyName":"丹麦克朗","currencyCode":"DKK","currencyCodeName":"Krone","currencyChaoOut":"102.9200"},{"countryFlag":"Norway.png","currencyName":"挪威克朗","currencyCode":"NOK","currencyCodeName":"Krona","currencyChaoOut":"80.3900"},{"countryFlag":"Sweden.png","currencyName":"瑞典克朗","currencyCode":"SEK","currencyCodeName":"Krona","currencyChaoOut":"78.3500"},{"countryFlag":"Malaysia.png","currencyName":"林吉特","currencyCode":"MYR","currencyCodeName":"Ringgit","currencyChaoOut":"160.0100"},{"countryFlag":"Brazil.png","currencyName":"巴西里亚尔","currencyCode":"BRL","currencyCodeName":"CruzeiroR","currencyChaoOut":"217.0700"},{"countryFlag":"Switzerland.png","currencyName":"瑞士法郎","currencyCode":"CHF","currencyCodeName":"Franc","currencyChaoOut":"704.9600"},{"countryFlag":"European-Union.png","currencyName":"欧元","currencyCode":"EUR","currencyCodeName":"ECU","currencyChaoOut":"765.5800"},{"countryFlag":"Russia.png","currencyName":"卢布","currencyCode":"RUB","currencyCodeName":"Russia Ruble","currencyChaoOut":"11.3900"},{"countryFlag":"Philippines.png","currencyName":"菲律宾比索","currencyCode":"PHP","currencyCodeName":"Peso","currencyChaoOut":"13.6390"},{"countryFlag":"United-States-of-America.png","currencyName":"美元","currencyCode":"USD","currencyCodeName":"U.S. Dollar","currencyChaoOut":"684.6600"},{"countryFlag":"Thailand.png","currencyName":"泰国铢","currencyCode":"THB","currencyCodeName":"Thai Baht (B)","currencyChaoOut":"20.1900"},{"countryFlag":"China.png","currencyName":"中国","currencyCode":"RMB","currencyCodeName":"Renminbi￥","currencyChaoOut":"100.0000"},{"countryFlag":"Korea-South.png","currencyName":"韩国元","currencyCode":"KRW","currencyCodeName":"WON 원","currencyChaoOut":"0.6019"},{"countryFlag":"Taiwan.png","currencyName":"新台币","currencyCode":"TWD","currencyCodeName":"NT$","currencyChaoOut":"23.4400"}]
+[
+  {
+    "countryFlag": "Japan.png",
+    "currencyName": "日元",
+    "currencyCode": "JPY",
+    "currencyCodeName": "Japanese Yen",
+    "currencyChaoOut": "6.1652"
+  },
+  {
+    "countryFlag": "Singapore.png",
+    "currencyName": "新加坡元",
+    "currencyCode": "SGD",
+    "currencyCodeName": "Singapore Dollar",
+    "currencyChaoOut": "493.9800"
+  },
+  {
+    "countryFlag": "HongKong.png",
+    "currencyName": "港币",
+    "currencyCode": "HKD",
+    "currencyCodeName": "Hong Kong Dollar",
+    "currencyChaoOut": "87.7800"
+  },
+  {
+    "countryFlag": "Macao.png",
+    "currencyName": "澳门元",
+    "currencyCode": "MOP",
+    "currencyCodeName": "Pataca de Macau",
+    "currencyChaoOut": "85.2200"
+  },
+  {
+    "countryFlag": "Canada.png",
+    "currencyName": "加拿大元",
+    "currencyCode": "CAD",
+    "currencyCodeName": "Canada Dollar",
+    "currencyChaoOut": "514.7400"
+  },
+  {
+    "countryFlag": "South-Africa.png",
+    "currencyName": "南非兰特",
+    "currencyCode": "ZAR",
+    "currencyCodeName": "Rand",
+    "currencyChaoOut": "52.4600"
+  },
+  {
+    "countryFlag": "New-Zealand.png",
+    "currencyName": "新西兰元",
+    "currencyCode": "NZD",
+    "currencyCodeName": "New Zealand Dollar",
+    "currencyChaoOut": "497.0100"
+  },
+  {
+    "countryFlag": "Australia.png",
+    "currencyName": "澳大利亚元",
+    "currencyCode": "AUD",
+    "currencyCodeName": "Australia Dollar",
+    "currencyChaoOut": "518.3400"
+  },
+  {
+    "countryFlag": "United-Kingdom.png",
+    "currencyName": "英镑",
+    "currencyCode": "GBP",
+    "currencyCodeName": "Pound",
+    "currencyChaoOut": "869.0000"
+  },
+  {
+    "countryFlag": "Denmark.png",
+    "currencyName": "丹麦克朗",
+    "currencyCode": "DKK",
+    "currencyCodeName": "Krone",
+    "currencyChaoOut": "102.9200"
+  },
+  {
+    "countryFlag": "Norway.png",
+    "currencyName": "挪威克朗",
+    "currencyCode": "NOK",
+    "currencyCodeName": "Krona",
+    "currencyChaoOut": "80.3900"
+  },
+  {
+    "countryFlag": "Sweden.png",
+    "currencyName": "瑞典克朗",
+    "currencyCode": "SEK",
+    "currencyCodeName": "Krona",
+    "currencyChaoOut": "78.3500"
+  },
+  {
+    "countryFlag": "Malaysia.png",
+    "currencyName": "林吉特",
+    "currencyCode": "MYR",
+    "currencyCodeName": "Ringgit",
+    "currencyChaoOut": "160.0100"
+  },
+  {
+    "countryFlag": "Brazil.png",
+    "currencyName": "巴西里亚尔",
+    "currencyCode": "BRL",
+    "currencyCodeName": "CruzeiroR",
+    "currencyChaoOut": "217.0700"
+  },
+  {
+    "countryFlag": "Switzerland.png",
+    "currencyName": "瑞士法郎",
+    "currencyCode": "CHF",
+    "currencyCodeName": "Franc",
+    "currencyChaoOut": "704.9600"
+  },
+  {
+    "countryFlag": "European-Union.png",
+    "currencyName": "欧元",
+    "currencyCode": "EUR",
+    "currencyCodeName": "ECU",
+    "currencyChaoOut": "765.5800"
+  },
+  {
+    "countryFlag": "Russia.png",
+    "currencyName": "卢布",
+    "currencyCode": "RUB",
+    "currencyCodeName": "Russia Ruble",
+    "currencyChaoOut": "11.3900"
+  },
+  {
+    "countryFlag": "Philippines.png",
+    "currencyName": "菲律宾比索",
+    "currencyCode": "PHP",
+    "currencyCodeName": "Peso",
+    "currencyChaoOut": "13.6390"
+  },
+  {
+    "countryFlag": "United-States-of-America.png",
+    "currencyName": "美元",
+    "currencyCode": "USD",
+    "currencyCodeName": "U.S. Dollar",
+    "currencyChaoOut": "684.6600"
+  },
+  {
+    "countryFlag": "Thailand.png",
+    "currencyName": "泰国铢",
+    "currencyCode": "THB",
+    "currencyCodeName": "Thai Baht (B)",
+    "currencyChaoOut": "20.1900"
+  },
+  {
+    "countryFlag": "China.png",
+    "currencyName": "中国",
+    "currencyCode": "RMB",
+    "currencyCodeName": "Renminbi￥",
+    "currencyChaoOut": "100.0000"
+  },
+  {
+    "countryFlag": "Korea-South.png",
+    "currencyName": "韩国元",
+    "currencyCode": "KRW",
+    "currencyCodeName": "WON 원",
+    "currencyChaoOut": "0.6019"
+  },
+  {
+    "countryFlag": "Taiwan.png",
+    "currencyName": "新台币",
+    "currencyCode": "TWD",
+    "currencyCodeName": "NT$",
+    "currencyChaoOut": "23.4400"
+  }
+]
