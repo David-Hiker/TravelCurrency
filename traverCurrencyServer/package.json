@@ -2,7 +2,6 @@
   "name": "travelCurrencyApp",
   "version": "1.0.0",
   "dependencies": {
-    "express": "^4.15.3",
-    "morgan": "^1.8.2"
+    "express": "^4.15.3"
   }
 }

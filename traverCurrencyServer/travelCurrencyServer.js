@@ -18,8 +18,7 @@ fs.existsSync(logDirectory) || fs.mkdirSync(logDirectory);
 var accessLogStream = FileStreamRotator.getStream({
 	filename: logDirectory + '/access-%DATE%.log',
 	frequency: 'daily',
-	verbose: false,
-//	size: "10M"
+	verbose: false
 });
 
 
@@ -34,7 +33,7 @@ app.use(morgan('combined',{stream: accessLogStream}));
 
 
 // 在路由 /tcurrency 下，输出会话里包含汇率信息
-app.use('/tcurrency', (request, response, next) => { 
+app.use('/black13eard/tcurrency', (request, response, next) => { 
     var currency_data = JSON.parse(fs.readFileSync('./currency_data.json'));
     response.json(currency_data); 
 }); 

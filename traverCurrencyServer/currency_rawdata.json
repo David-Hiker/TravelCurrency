@@ -4,200 +4,200 @@
     "mid_price": "--",
     "zhesuan": "",
     "name": "日元",
-    "hui_out": "6.1652",
-    "chao_in": "5.9822",
-    "chao_out": "6.1652",
-    "hui_in": "6.1222"
+    "hui_out": "6.1716",
+    "chao_in": "5.9885",
+    "chao_out": "6.1716",
+    "hui_in": "6.1286"
   },
   {
     "code": "SGD",
     "mid_price": "--",
     "zhesuan": "",
     "name": "新加坡元",
-    "hui_out": "493.9800",
-    "chao_in": "479.3200",
-    "chao_out": "493.9800",
-    "hui_in": "490.5300"
+    "hui_out": "495.3800",
+    "chao_in": "480.6800",
+    "chao_out": "495.3800",
+    "hui_in": "491.9300"
   },
   {
     "code": "HKD",
     "mid_price": "--",
     "zhesuan": "",
     "name": "港币",
-    "hui_out": "87.7800",
-    "chao_in": "86.8600",
-    "chao_out": "87.7800",
-    "hui_in": "87.4300"
+    "hui_out": "87.9500",
+    "chao_in": "87.0300",
+    "chao_out": "87.9500",
+    "hui_in": "87.6000"
   },
   {
     "code": "MOP",
     "mid_price": "--",
     "zhesuan": "",
     "name": "澳门元",
-    "hui_out": "85.2200",
-    "chao_in": "84.3300",
-    "chao_out": "85.2200",
-    "hui_in": "84.8800"
+    "hui_out": "85.3800",
+    "chao_in": "84.4900",
+    "chao_out": "85.3800",
+    "hui_in": "85.0400"
   },
   {
     "code": "CAD",
     "mid_price": "--",
     "zhesuan": "",
     "name": "加拿大元",
-    "hui_out": "514.7400",
-    "chao_in": "499.4700",
-    "chao_out": "514.7400",
-    "hui_in": "511.1500"
+    "hui_out": "518.2000",
+    "chao_in": "502.8200",
+    "chao_out": "518.2000",
+    "hui_in": "514.5900"
   },
   {
     "code": "ZAR",
     "mid_price": "--",
     "zhesuan": "",
     "name": "南非兰特",
-    "hui_out": "52.4600",
-    "chao_in": "50.0700",
-    "chao_out": "52.4600",
-    "hui_in": "52.0900"
+    "hui_out": "53.1300",
+    "chao_in": "50.7100",
+    "chao_out": "53.1300",
+    "hui_in": "52.7600"
   },
   {
     "code": "NZD",
     "mid_price": "--",
     "zhesuan": "",
     "name": "新西兰元",
-    "hui_out": "497.0100",
-    "chao_in": "482.2600",
-    "chao_out": "497.0100",
-    "hui_in": "493.5400"
+    "hui_out": "500.4800",
+    "chao_in": "485.6300",
+    "chao_out": "500.4800",
+    "hui_in": "496.9900"
   },
   {
     "code": "AUD",
     "mid_price": "--",
     "zhesuan": "",
     "name": "澳大利亚元",
-    "hui_out": "518.3400",
-    "chao_in": "502.9600",
-    "chao_out": "518.3400",
-    "hui_in": "514.7200"
+    "hui_out": "520.8200",
+    "chao_in": "505.3600",
+    "chao_out": "520.8200",
+    "hui_in": "517.1900"
   },
   {
     "code": "GBP",
     "mid_price": "--",
     "zhesuan": "",
     "name": "英镑",
-    "hui_out": "869.0000",
-    "chao_in": "843.2200",
-    "chao_out": "869.0000",
-    "hui_in": "862.9500"
+    "hui_out": "875.8900",
+    "chao_in": "849.9000",
+    "chao_out": "875.8900",
+    "hui_in": "869.7900"
   },
   {
     "code": "DKK",
     "mid_price": "--",
     "zhesuan": "",
     "name": "丹麦克朗",
-    "hui_out": "102.9200",
-    "chao_in": "99.8700",
-    "chao_out": "102.9200",
-    "hui_in": "102.2000"
+    "hui_out": "103.4300",
+    "chao_in": "100.3600",
+    "chao_out": "103.4300",
+    "hui_in": "102.7100"
   },
   {
     "code": "NOK",
     "mid_price": "--",
     "zhesuan": "",
     "name": "挪威克朗",
-    "hui_out": "80.3900",
-    "chao_in": "78.0000",
-    "chao_out": "80.3900",
-    "hui_in": "79.8300"
+    "hui_out": "81.4000",
+    "chao_in": "78.9800",
+    "chao_out": "81.4000",
+    "hui_in": "80.8300"
   },
   {
     "code": "SEK",
     "mid_price": "--",
     "zhesuan": "",
     "name": "瑞典克朗",
-    "hui_out": "78.3500",
-    "chao_in": "76.0200",
-    "chao_out": "78.3500",
-    "hui_in": "77.8000"
+    "hui_out": "78.8100",
+    "chao_in": "76.4700",
+    "chao_out": "78.8100",
+    "hui_in": "78.2600"
   },
   {
     "code": "MYR",
     "mid_price": "--",
     "zhesuan": "",
     "name": "林吉特",
-    "hui_out": "160.0100",
+    "hui_out": "160.2100",
     "chao_in": "--",
-    "chao_out": "160.0100",
-    "hui_in": "158.8900"
+    "chao_out": "160.2100",
+    "hui_in": "159.0900"
   },
   {
     "code": "BRL",
     "mid_price": "--",
     "zhesuan": "",
     "name": "巴西里亚尔",
-    "hui_out": "217.0700",
-    "chao_in": "197.4100",
-    "chao_out": "217.0700",
-    "hui_in": "197.4100"
+    "hui_out": "216.9400",
+    "chao_in": "197.2900",
+    "chao_out": "216.9400",
+    "hui_in": "197.2900"
   },
   {
     "code": "CHF",
     "mid_price": "--",
     "zhesuan": "",
     "name": "瑞士法郎",
-    "hui_out": "704.9600",
-    "chao_in": "684.0400",
-    "chao_out": "704.9600",
-    "hui_in": "700.0400"
+    "hui_out": "708.4600",
+    "chao_in": "687.4400",
+    "chao_out": "708.4600",
+    "hui_in": "703.5200"
   },
   {
     "code": "EUR",
     "mid_price": "--",
     "zhesuan": "",
     "name": "欧元",
-    "hui_out": "765.5800",
-    "chao_in": "742.8600",
-    "chao_out": "765.5800",
-    "hui_in": "760.2500"
+    "hui_out": "769.2000",
+    "chao_in": "746.3700",
+    "chao_out": "769.2000",
+    "hui_in": "763.8400"
   },
   {
     "code": "RUB",
     "mid_price": "--",
     "zhesuan": "",
     "name": "卢布",
-    "hui_out": "11.3900",
-    "chao_in": "11.0200",
-    "chao_out": "11.3900",
-    "hui_in": "11.3100"
+    "hui_out": "11.5800",
+    "chao_in": "11.2100",
+    "chao_out": "11.5800",
+    "hui_in": "11.5000"
   },
   {
     "code": "PHP",
     "mid_price": "--",
     "zhesuan": "",
     "name": "菲律宾比索",
-    "hui_out": "13.6390",
-    "chao_in": "13.2040",
-    "chao_out": "13.6390",
-    "hui_in": "13.2040"
+    "hui_out": "13.7100",
+    "chao_in": "13.2730",
+    "chao_out": "13.7100",
+    "hui_in": "13.2730"
   },
   {
     "code": "USD",
     "mid_price": "--",
     "zhesuan": "",
     "name": "美元",
-    "hui_out": "684.6600",
-    "chao_in": "677.4900",
-    "chao_out": "684.6600",
-    "hui_in": "681.9300"
+    "hui_out": "685.8400",
+    "chao_in": "678.6600",
+    "chao_out": "685.8400",
+    "hui_in": "683.1000"
   },
   {
     "code": "THB",
     "mid_price": "--",
     "zhesuan": "",
     "name": "泰国铢",
-    "hui_out": "20.1900",
-    "chao_in": "19.5500",
-    "chao_out": "20.1900",
-    "hui_in": "20.0500"
+    "hui_out": "20.2300",
+    "chao_in": "19.5900",
+    "chao_out": "20.2300",
+    "hui_in": "20.0900"
   },
   {
     "code": "RMB",
@@ -214,9 +214,9 @@
     "mid_price": "--",
     "zhesuan": "",
     "name": "韩国元",
-    "hui_out": "0.6019",
-    "chao_in": "0.5841",
-    "chao_out": "0.6019",
+    "hui_out": "0.6056",
+    "chao_in": "0.5877",
+    "chao_out": "0.6056",
     "hui_in": "--"
   },
   {
@@ -224,9 +224,9 @@
     "mid_price": "--",
     "zhesuan": "",
     "name": "新台币",
-    "hui_out": "23.4400",
-    "chao_in": "21.8500",
-    "chao_out": "23.4400",
-    "hui_in": "21.8500"
+    "hui_out": "23.5500",
+    "chao_in": "21.9400",
+    "chao_out": "23.5500",
+    "hui_in": "21.9400"
   }
 ]
